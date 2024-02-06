@@ -1,2 +1,3 @@
 this is the sample file that i ahve created to demonstrate the git merge and pr
+
 this is the second line in the file from the release1 branch
